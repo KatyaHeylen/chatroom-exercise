@@ -10,7 +10,14 @@
 </head>
 <body>
 
-<script src="/server/node_modules/socket.io/client-dist/socket.io.js"></script>
+<input type="text" id='message' placeholder="insert your message here">
+<button id="send">Send to all</button>
+<button id="private">Send to me</button>
+<div id="target"></div>
+
+
+
+<script src="socket.io/socket.io.js"></script>
 <script src="./script.js"></script>
 </body>
 </html>
