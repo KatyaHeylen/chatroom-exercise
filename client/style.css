@@ -9,7 +9,8 @@
 body {
     width: 100%;
     height: 100vh;
-    background-image: url("/images/cats.jpg");
+    background-color: darkkhaki;
+    background-image: url("https://file1.grazia.fr/var/grazia/storage/images/1/2/7/7/5/12775153/voici-les-races-chats-les-plus-belles-monde-est-science-qui-dit.jpg?alias=true1000x563&size=x100&format=webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -30,14 +31,14 @@ section {
     bottom: 100px;
     margin-left: 20px;
     padding: 20px;
-
 }
 
 #message {
-    width: 700px;
-    height: 50px;
+    width: 80%;
+    height: 70px;
     border: solid 2px beige;
     border-radius: 8px;
+    padding-left: 10px;
     font-family: "Book Antiqua";
     font-size: 14px;
     background-color: beige;
@@ -92,4 +93,19 @@ div {
     font-family: 'Fuzzy Bubbles', cursive;
     font-size: 14px;
     color: beige;
+    padding-left: 20px;
+}
+
+#list {
+    position: absolute;
+    width: 200px;
+    height: 70vh;
+    border: solid 2px darkolivegreen;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 14px;
+    color: darkolivegreen;
+    margin-left: 80%;
+    margin-top: 100px;
+    padding-left: 20px;
+
 }
