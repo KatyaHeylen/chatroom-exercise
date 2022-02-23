@@ -25,6 +25,4 @@ That's how it looks:
 ![chatcat1](https://user-images.githubusercontent.com/86771301/155310504-95ccd0cf-275a-4e50-a730-c6dc5665636a.png)
 
 
-
-Tell your cat that to run a server he needs to use `node server` command in your CLI. 
-And let him or her enjoy the chatting! 
+And let your cat enjoy the chatting! 
